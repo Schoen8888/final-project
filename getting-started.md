@@ -10,5 +10,5 @@ git init
 ---
 
 ## Navigation
-[Back](intro.md)
+[Back to Introduction](intro.md)
 [Next: Commits](commits.md)
