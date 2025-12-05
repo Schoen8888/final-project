@@ -6,7 +6,7 @@ Before you can actually work with Git, you need to install it!
 - Download it online from [git-scm.com]
 
 ## Setting Up Your Identity
-Get needs to know who you are so you can create repositories and make changes
+Git needs to know who you are so you can create repositories and make changes
 
 - gitconfig --global user.name "Your Name"
 - gitconfig --global user.email "your@email.com"
