@@ -5,7 +5,10 @@
 This tutorial introduces the fundamentals of Git, which is a version control system used worldwide. Topics covered include creating repositories, tracking changes, branches, and collaborations.
 
 ## Target Audience
-This tutorial is designed for those with little or no prior experience.
+This tutorial is designed for those with little or no prior experience. This will help:
+- Anyone learning programming or other digital systems
+- Those who want to get into entry-level software development
+- People interested in file management and organizing projects more effectively
 
 ---
 
