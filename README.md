@@ -2,7 +2,7 @@
 **Author:** Lucas Schoenecker
 
 ## Summary
-This tutorial introduces the fundamentals of Git, which is a version control system used worldwide. Topics covered include creating repositories, tracking changes, branches, and collaborations.
+This tutorial introduces the fundamentals of Git, which is a version control system used worldwide. Topics covered include creating repositories, tracking changes, branches, and collaborations. The main goal is to help people become more familiar with Git, since it is widely used throughout software companies.
 
 ## Target Audience
 This tutorial is designed for those with little or no prior experience. This will help:
