@@ -1,13 +1,13 @@
 ## **Commits.md**
 '''markdown
-# WOrking with Commits
+# Working with Commits
 
 Commits are snapshots of your project at any given time
 
 ## Basic Workflow
-'''bash
-git add filename
-git commit -m "Describe your changes"
+- '''bash
+- git add filename
+- git commit -m "Describe your changes"
 
 Each commit you make should have a meaningful message
 
