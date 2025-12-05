@@ -1,5 +1,3 @@
-## **Commits.md**
-'''markdown
 # Working with Commits
 
 Commits are snapshots of your project at any given time
