@@ -1,4 +1,4 @@
-# Git Basics
+# Git Basics For Beginners
 **Author:** Lucas Schoenecker
 
 ## Summary
