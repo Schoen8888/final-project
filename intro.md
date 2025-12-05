@@ -10,5 +10,5 @@ Git is the most popular version control system out there today, since it allows 
   ----
 
 ## Navigation
-[Back: Home](README.md)
-[Next: Getting Started with Git](getting-started.md)
+- [Back: Home](README.md)
+- [Next: Getting Started with Git](getting-started.md)
