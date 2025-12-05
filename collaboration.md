@@ -1,6 +1,6 @@
 # Collaborating with GitHub
 
-Github is a platform for hosting Git repositories online. Fun fact, you are on GitHub right now!
+GitHub is a platform for hosting Git repositories online. Fun fact, you are on GitHub right now!
 
 ## Pushing Code - Link your repository to GitHub and push the code in
 - ''bash
