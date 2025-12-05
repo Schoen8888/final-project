@@ -19,5 +19,5 @@ This command initializes a new repository in your project folder. You will have 
 ---
 
 ## Navigation
-- [Back to Introduction](intro.md)
+- [Back: Introduction](intro.md)
 - [Next: Commits](commits.md)
