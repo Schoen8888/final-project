@@ -1,6 +1,6 @@
 # Working with Commits
 
-Commits are snapshots of your project at any given time. Think of these as checkpoints in a video game.
+Commits are snapshots of your project at any given time. Think of these similarly to how you view checkpoints in a video game.
 
 ## Basic Workflow
 1. **Stage changes** (tells Git which files to track):
