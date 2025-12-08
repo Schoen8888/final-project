@@ -12,7 +12,7 @@ Branches allow you to experiment without actually changing the main code in a gi
 - Multiple people can collaborate
 - The main code for the project is still able to run
 
-  ## Merging a Branch
+## Merging a Branch
 
 If you are happy with the changes you made in your branch and want to bring them to the main project, then you can merge the changes
 
