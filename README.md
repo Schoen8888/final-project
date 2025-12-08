@@ -13,7 +13,7 @@ This tutorial is designed for people of any age with little or no prior Git expe
 ---
 
 ## Tutorial Contents
-1. [Introduction to Version History](intro.md)
+1. [Introduction to Version Control](intro.md)
 2. [Getting Started with Git](getting-started.md)
 3. [Working with Commits](commits.md)
 4. [Branching and Merging in Git](branches.md)
