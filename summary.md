@@ -13,5 +13,6 @@ Congratulations! You have completed the tutorial. I hope you were able to learn 
 - Build a group of projects you are proud of, and then you can put them on your resume and LinkedIn going forward!
 
 - ## Navigation
+  --
 - [Back: Collaborating by Using GitHub](collaboration.md)
 - [Return to Home](README.md)
